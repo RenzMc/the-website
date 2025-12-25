@@ -12,6 +12,16 @@ export default function Index() {
         <Link href="/nbrthx">
           <button>SVGSTEGO</button>
         </Link>
+        <Link href="/vinrex/index.html">
+          <button style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <img 
+              src="/vinrex/assets/default_100_percent/100-error-offline.png" 
+              alt="Vinrex Icon" 
+              style={{ width: '24px', height: '24px' }}
+            />
+            VINREX GAME
+          </button>
+        </Link>
       </p>
       <AnimatedMessage />
     </div>
