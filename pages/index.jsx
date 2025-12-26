@@ -22,6 +22,9 @@ export default function Index() {
             VINREX GAME
           </button>
         </Link>
+        <Link href="/gabut">
+          <button>gabut</button>
+        </Link>
       </p>
       <AnimatedMessage />
     </div>
